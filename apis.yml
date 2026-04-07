@@ -1,7 +1,12 @@
 aid: realogy-holdings
-url: https://raw.githubusercontent.com/api-evangelist/realogy-holdings/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/realogy-holdings/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.realogy-holdings.com
+description: >-
+  Realogy Holdings is a global provider of residential real estate services with brands
+  including Better Homes and Gardens Real Estate, Century 21, Coldwell Banker, Corcoran,
+  ERA, and Sotheby's International Realty.

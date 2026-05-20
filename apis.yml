@@ -21,6 +21,10 @@ modified: '2026-04-28'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: GitHubOrganization
+    url: https://github.com/realogy
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/realogy
   - type: Website
     url: https://www.realogy-holdings.com
   - type: Website

@@ -22,6 +22,8 @@ modified: '2026-04-28'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/realogy-holdings-domain-security.yml
   - type: GitHubOrganization
     url: https://github.com/realogy
   - type: LinkedIn
@@ -30,6 +32,8 @@ common:
     url: https://www.realogy-holdings.com
   - type: Website
     url: https://www.anywhere.re
+  - url: https://www.anywhere.re/feed/
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com

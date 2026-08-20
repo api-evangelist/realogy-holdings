@@ -21,6 +21,12 @@ accessModel:
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/realogy-holdings.png
 tags:
+  - Real-Estate
+  - Residential
+  - Franchising
+  - Brokerage
+  - Fortune 500
+tags_raw:
   - Real Estate
   - Residential
   - Franchising

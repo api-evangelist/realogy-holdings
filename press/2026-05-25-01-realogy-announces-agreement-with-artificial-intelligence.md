@@ -1,7 +1,9 @@
 ---
 title: Realogy Announces Agreement With Artificial Intelligence ...
 url: https://www.prnewswire.com/news-releases/realogy-announces-agreement-with-artificial-intellegence-ai-real-estate-technology-company-ojo-labs-300515692.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Realogy Holdings" press release artificial intelligence'
 position: 1
 source: serpapi-google
